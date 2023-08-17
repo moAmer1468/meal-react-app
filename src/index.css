@@ -1,0 +1,94 @@
+.color-body {
+    height: 100vh;
+    background-color: #f8f8f8;
+}
+
+.font {
+    font-family: "Almarai", sans-serif;
+    font-family: "Cairo", sans-serif;
+    font-size: 20px;
+}
+
+.rectangle {
+    height: 100%;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+}
+
+.dates-count {
+    color: #555555;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.btn-style {
+    width: 200px;
+    border-radius: 8px;
+    color: white;
+    background-color: #224f61;
+}
+
+.img-avatar {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.mt-0 {
+    margin-top: 0;
+}
+.border-bottom{
+    border-bottom: 2px solid gray;
+    margin: 5px;
+}
+
+
+.amer-flex{
+    display: flex;
+    border-bottom: 2px solid gray;
+    margin: 10px;
+    padding: 5px;
+}
+.amer-flex:last-child{
+    border-bottom: 2px solid transparent;
+}
+
+/* ----------------------------------------- */
+
+.logo-style{
+    color: orange;
+
+}
+.search-style{
+border-radius: 12px;
+    padding: 3px;
+    border: 2px solid black;
+    margin-right: 5px;
+}
+
+.nav-bar-style{
+display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    padding: 0px;
+}
+.search-btn-style{
+        border-radius: 12px;
+            padding: 3px;
+            margin-right: 5px;
+
+}
+button.search-btn-style:hover {
+    background-color: orange;
+}
+
+.amer-copy-right{
+    color: white;
+        margin-top: -1px;
+        box-sizing: border-box;
+        position: absolute;
+        font-size: .75rem;
+}
